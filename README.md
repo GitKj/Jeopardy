@@ -32,7 +32,7 @@ The following features are NOT a part of the standard jeopardy game but could be
 * [ ] Add different levels (Higher level == less time to answer?)
 
 Other QOL features to be added:
-* [ ] A help feature to explain how the game works
+* [x] A help feature to explain how the game works
 * [ ] Edge cases
     * [x] If user tries to pick a spot that's already been picked
     * [x] Make it so capitilization does not matter

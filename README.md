@@ -3,7 +3,7 @@
 
 Python version of one my favorite gameshows, Jeopardy!
 -----------------------------------------------------
-**Jeopardy** is a Python **command line application** remake of the classic gameshow, Jeopardy!
+**Jeopardy** is a Python **command line** remake of the classic gameshow, Jeopardy!
 The questions are common knowledge questions. The lower the question value, the easier the question is. The higher the question value, the harder the question is.
 Created by: Kajoyrie Purcell
 Day started: 1/11/2021

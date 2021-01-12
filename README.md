@@ -5,7 +5,11 @@ Python version of one my favorite gameshows, Jeopardy!
 -----------------------------------------------------
 **Jeopardy** is a Python **command line** remake of the classic gameshow, Jeopardy!
 The questions are common knowledge questions. The lower the question value, the easier the question is. The higher the question value, the harder the question is.
+
+
 Created by: Kajoyrie Purcell
+
+
 Day started: 1/11/2021
 
 ## User Stories
@@ -30,6 +34,8 @@ The following features are NOT a part of the standard jeopardy game but could be
 Other QOL features to be added:
 * [ ] A help feature to explain how the game works
 * [ ] Edge cases
+    * [ ] If user tries to pick a spot that's already been picked
+    * [ ] Make it so capitilization does not matter
 
 Other Notes:
 > This is/was my first ever time using Python and I thought this would be good opportunity to learn some of the basic ins and outs of Python.

@@ -34,7 +34,7 @@ The following features are NOT a part of the standard jeopardy game but could be
 Other QOL features to be added:
 * [ ] A help feature to explain how the game works
 * [ ] Edge cases
-    * [ ] If user tries to pick a spot that's already been picked
+    * [x] If user tries to pick a spot that's already been picked
     * [ ] Make it so capitilization does not matter
 
 Other Notes:

@@ -35,7 +35,7 @@ Other QOL features to be added:
 * [ ] A help feature to explain how the game works
 * [ ] Edge cases
     * [x] If user tries to pick a spot that's already been picked
-    * [ ] Make it so capitilization does not matter
+    * [x] Make it so capitilization does not matter
 
 Other Notes:
 > This is/was my first ever time using Python and I thought this would be good opportunity to learn some of the basic ins and outs of Python.
